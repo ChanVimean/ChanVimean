@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rok Rak</h1>
 
+
+<h3 align="center">
+  From Cambodia Student & Front-End / Full-Stack Developer 💻. Passionate about building meaningful projects and learning every day.
+</h3>
+
+<br>
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <h3 align="left">
-          From Cambodia Student & Front-End / Full-Stack Developer 💻
-          <br/>
-          Passionate about building meaningful projects and learning every day.
-        </h3>
-      </td>
-      <td>
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHB3aHF0dWNvaTF3enl6OWh0M3pqaWN5MjFsZjJtamN2bm52MW9veiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VXJWhaO7afRe/source.gif" alt="Saitama.gif" width="250" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHB3aHF0dWNvaTF3enl6OWh0M3pqaWN5MjFsZjJtamN2bm52MW9veiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VXJWhaO7afRe/source.gif" alt="Saitama.gif" />
 </div>
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanvimean&label=Profile%20views&color=0e75b6&style=flat" alt="chanvimean" /> </p>
+
+![Build Status](https://github.com/ChanVimean/yourrepo/actions/workflows/ci.yml/badge.svg)
+
 
 - 🔭 Currently working on [Electronic E-Commerce Website](https://zipbuy-delta.vercel.app)
 
