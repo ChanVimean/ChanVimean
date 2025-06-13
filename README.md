@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-two-khaki.vercel.app](https://react-portfolio-two-khaki.vercel.app)
 
-- 📝 Sharing my React lessons & coding tips [Face-to-face teaching for now, maybe some short clips soon — always here to help you level up.](Face-to-face teaching for now, maybe some short clips soon — always here to help you level up.)
+- 📝 Sharing my React lessons & coding tips [Face-to-face teaching for now, maybe some short clips soon — always here to help you level up.]
 
 - 📫 How to reach me **vimeanchan0901@gmail.com**
 
