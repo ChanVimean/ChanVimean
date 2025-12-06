@@ -17,7 +17,7 @@
 
 <br>
 
-- 🔭 Currently working on [E-Commerce Fll Stack Project](https://relics-retro.vercel.app)
+- 🔭 Currently working on [E-Commerce Full Stack Project](https://relics-retro.vercel.app)
 
 - 🌱 I’m currently learning **Flutter, SwiftUI, Laravel**
 
