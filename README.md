@@ -17,9 +17,9 @@
 
 <br>
 
-- 🔭 Currently working on [Electronic E-Commerce Website](https://zipbuy-delta.vercel.app)
+- 🔭 Currently working on [E-Commerce Fll Stack Project](https://relics-retro.vercel.app)
 
-- 🌱 I’m currently learning **Nest, ASP.NET**
+- 🌱 I’m currently learning **Flutter, SwiftUI, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-two-khaki.vercel.app](https://react-portfolio-two-khaki.vercel.app)
 
