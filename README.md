@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  From Cambodia Student & Front-End / Full-Stack Developer 💻. Passionate about building meaningful projects and learning every day.
+  From Cambodia Student Full-Stack Developer Mobile & Web 💻. Passionate about building meaningful projects and learning every day.
 </h3>
 
 <br>
